@@ -1,5 +1,16 @@
 {
     "available_space": true,
-    "files": [],
-    "total_size": 0.0
+    "files": [
+        {
+            "name": "Bach Violin Sonata C minor Itzhak Perlman_Martha Argerich-UhkC85HfRoE.mp4",
+            "path": "music_c1/videos/Bach Violin Sonata C minor Itzhak Perlman_Martha Argerich-UhkC85HfRoE.mp4",
+            "size": 25.89550592
+        },
+        {
+            "name": "HUIZAR   pecado capital  full album 1988-nH4T7hQ1w9M.mp4",
+            "path": "music_c1/videos/HUIZAR   pecado capital  full album 1988-nH4T7hQ1w9M.mp4",
+            "size": 40.680728576
+        }
+    ],
+    "total_size": 66.576234496
 }
