@@ -2,6 +2,11 @@
     "available_space": true,
     "files": [
         {
+            "name": "Echo & The Bunnymen - Nothing Lasts Forever (OFFICIAL MUSIC VIDEO)-Tc1J7y4xIdA.mp4",
+            "path": "music_c1/videos/Echo & The Bunnymen - Nothing Lasts Forever (OFFICIAL MUSIC VIDEO)-Tc1J7y4xIdA.mp4",
+            "size": 15.736348672
+        },
+        {
             "name": "Bach Violin Sonata C minor Itzhak Perlman_Martha Argerich-UhkC85HfRoE.mp4",
             "path": "music_c1/videos/Bach Violin Sonata C minor Itzhak Perlman_Martha Argerich-UhkC85HfRoE.mp4",
             "size": 25.89550592
@@ -12,5 +17,5 @@
             "size": 40.680728576
         }
     ],
-    "total_size": 66.576234496
+    "total_size": 82.312583168
 }
