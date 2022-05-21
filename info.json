@@ -2,14 +2,69 @@
     "available_space": true,
     "files": [
         {
+            "name": "Organ Grinder's Swing-pTiYtT2A54Y.mp4",
+            "path": "music_c1/videos/Organ Grinder's Swing-pTiYtT2A54Y.mp4",
+            "size": 3.141252096
+        },
+        {
+            "name": "Francisco Tárrega - Variaciones sobre 'El Carnaval de Venecia' de Paganini-ov1yBmsAZtE.mp4",
+            "path": "music_c1/videos/Francisco Tárrega - Variaciones sobre 'El Carnaval de Venecia' de Paganini-ov1yBmsAZtE.mp4",
+            "size": 17.095324672
+        },
+        {
             "name": "Echo & The Bunnymen - Nothing Lasts Forever (OFFICIAL MUSIC VIDEO)-Tc1J7y4xIdA.mp4",
             "path": "music_c1/videos/Echo & The Bunnymen - Nothing Lasts Forever (OFFICIAL MUSIC VIDEO)-Tc1J7y4xIdA.mp4",
             "size": 15.736348672
         },
         {
+            "name": "Uno de Mi Calle Me Ha Dicho Que Tiene un Amigo Que Dice Conocer un Tipo Que un Dia Fue Feliz-a669xM61wnU.mp4",
+            "path": "music_c1/videos/Uno de Mi Calle Me Ha Dicho Que Tiene un Amigo Que Dice Conocer un Tipo Que un Dia Fue Feliz-a669xM61wnU.mp4",
+            "size": 7.595542528
+        },
+        {
             "name": "Bach Violin Sonata C minor Itzhak Perlman_Martha Argerich-UhkC85HfRoE.mp4",
             "path": "music_c1/videos/Bach Violin Sonata C minor Itzhak Perlman_Martha Argerich-UhkC85HfRoE.mp4",
             "size": 25.89550592
+        },
+        {
+            "name": "L'Impératrice ♗ VANILLE FRAISE(2)-iZAqaykiS70.mp4",
+            "path": "music_c1/videos/L'Impératrice ♗ VANILLE FRAISE(2)-iZAqaykiS70.mp4",
+            "size": 45.033961472
+        },
+        {
+            "name": "Conjunto primavera Las Noches Las Hago Dias-tbCDe_ITuHU.mp4",
+            "path": "music_c1/videos/Conjunto primavera Las Noches Las Hago Dias-tbCDe_ITuHU.mp4",
+            "size": 4.622806016
+        },
+        {
+            "name": "SERRAT - MACHADO (Vinilo 1969)-3LdOXaluKyg.mp4",
+            "path": "music_c1/videos/SERRAT - MACHADO (Vinilo 1969)-3LdOXaluKyg.mp4",
+            "size": 39.385481216
+        },
+        {
+            "name": "HUIZAR   pecado capital  full album 1988-nH4T7hQ1w9M.mp4",
+            "path": "music_c1/videos/HUIZAR   pecado capital  full album 1988-nH4T7hQ1w9M.mp4",
+            "size": 40.680728576
+        },
+        {
+            "name": "[1984] Oscilation Circuit – Série Réflexion 1 [Full Album]-MztcU9XWzC0.mp4",
+            "path": "music_c1/videos/[1984] Oscilation Circuit – Série Réflexion 1 [Full Album]-MztcU9XWzC0.mp4",
+            "size": 52.85376307200001
+        },
+        {
+            "name": "One More Shot-xr0AtK6y2eY.mp4",
+            "path": "music_c1/videos/One More Shot-xr0AtK6y2eY.mp4",
+            "size": 7.194803200000001
+        },
+        {
+            "name": "Absynthe-Minded-Envoi-_NbcDS7AeVA.mp4",
+            "path": "music_c1/videos/Absynthe-Minded-Envoi-_NbcDS7AeVA.mp4",
+            "size": 20.816806912
+        },
+        {
+            "name": "João Gilberto - 23 - Morena Boca de Ouro-6sJxH1NbrxU.mp4",
+            "path": "music_c1/videos/João Gilberto - 23 - Morena Boca de Ouro-6sJxH1NbrxU.mp4",
+            "size": 3.150199808
         },
         {
             "name": "CONJUNTO PRIMAVERA luis pulido-oWng3_8en90.mp4",
@@ -22,65 +77,10 @@
             "size": 15.288416256000001
         },
         {
-            "name": "[1984] Oscilation Circuit – Série Réflexion 1 [Full Album]-MztcU9XWzC0.mp4",
-            "path": "music_c1/videos/[1984] Oscilation Circuit – Série Réflexion 1 [Full Album]-MztcU9XWzC0.mp4",
-            "size": 52.85376307200001
-        },
-        {
             "name": "Una Furtiva Lagrima - Enrico Caruso 1904. Remastered.-t936rzOt3Zc.mp4",
             "path": "music_c1/videos/Una Furtiva Lagrima - Enrico Caruso 1904. Remastered.-t936rzOt3Zc.mp4",
             "size": 6.638053376
-        },
-        {
-            "name": "SERRAT - MACHADO (Vinilo 1969)-3LdOXaluKyg.mp4",
-            "path": "music_c1/videos/SERRAT - MACHADO (Vinilo 1969)-3LdOXaluKyg.mp4",
-            "size": 39.385481216
-        },
-        {
-            "name": "Organ Grinder's Swing-pTiYtT2A54Y.mp4",
-            "path": "music_c1/videos/Organ Grinder's Swing-pTiYtT2A54Y.mp4",
-            "size": 3.141252096
-        },
-        {
-            "name": "L'Impératrice ♗ VANILLE FRAISE(2)-iZAqaykiS70.mp4",
-            "path": "music_c1/videos/L'Impératrice ♗ VANILLE FRAISE(2)-iZAqaykiS70.mp4",
-            "size": 45.033961472
-        },
-        {
-            "name": "Uno de Mi Calle Me Ha Dicho Que Tiene un Amigo Que Dice Conocer un Tipo Que un Dia Fue Feliz-a669xM61wnU.mp4",
-            "path": "music_c1/videos/Uno de Mi Calle Me Ha Dicho Que Tiene un Amigo Que Dice Conocer un Tipo Que un Dia Fue Feliz-a669xM61wnU.mp4",
-            "size": 7.595542528
-        },
-        {
-            "name": "One More Shot-xr0AtK6y2eY.mp4",
-            "path": "music_c1/videos/One More Shot-xr0AtK6y2eY.mp4",
-            "size": 7.194803200000001
-        },
-        {
-            "name": "João Gilberto - 23 - Morena Boca de Ouro-6sJxH1NbrxU.mp4",
-            "path": "music_c1/videos/João Gilberto - 23 - Morena Boca de Ouro-6sJxH1NbrxU.mp4",
-            "size": 3.150199808
-        },
-        {
-            "name": "Absynthe-Minded-Envoi-_NbcDS7AeVA.mp4",
-            "path": "music_c1/videos/Absynthe-Minded-Envoi-_NbcDS7AeVA.mp4",
-            "size": 20.816806912
-        },
-        {
-            "name": "HUIZAR   pecado capital  full album 1988-nH4T7hQ1w9M.mp4",
-            "path": "music_c1/videos/HUIZAR   pecado capital  full album 1988-nH4T7hQ1w9M.mp4",
-            "size": 40.680728576
-        },
-        {
-            "name": "Francisco Tárrega - Variaciones sobre 'El Carnaval de Venecia' de Paganini-ov1yBmsAZtE.mp4",
-            "path": "music_c1/videos/Francisco Tárrega - Variaciones sobre 'El Carnaval de Venecia' de Paganini-ov1yBmsAZtE.mp4",
-            "size": 17.095324672
-        },
-        {
-            "name": "Conjunto primavera Las Noches Las Hago Dias-tbCDe_ITuHU.mp4",
-            "path": "music_c1/videos/Conjunto primavera Las Noches Las Hago Dias-tbCDe_ITuHU.mp4",
-            "size": 4.622806016
         }
     ],
-    "total_size": 310.07545856
+    "total_size": 310.0754585600001
 }
