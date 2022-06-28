@@ -1,86 +1,103 @@
 {
     "available_space": true,
-    "files": [
+    "content": [
         {
             "name": "Organ Grinder's Swing-pTiYtT2A54Y.mp4",
-            "path": "music_c1/videos/Organ Grinder's Swing-pTiYtT2A54Y.mp4",
-            "size": 3.141252096
+            "path": "c1/videos/Organ Grinder's Swing-pTiYtT2A54Y.mp4",
+            "size": 3.141252096,
+            "url": "https://github.com/circuitalmynds/music_c1/blob/main/videos/Organ Grinder's Swing-pTiYtT2A54Y.mp4?raw=true"
         },
         {
             "name": "Francisco Tárrega - Variaciones sobre 'El Carnaval de Venecia' de Paganini-ov1yBmsAZtE.mp4",
-            "path": "music_c1/videos/Francisco Tárrega - Variaciones sobre 'El Carnaval de Venecia' de Paganini-ov1yBmsAZtE.mp4",
-            "size": 17.095324672
+            "path": "c1/videos/Francisco Tárrega - Variaciones sobre 'El Carnaval de Venecia' de Paganini-ov1yBmsAZtE.mp4",
+            "size": 17.095324672,
+            "url": "https://github.com/circuitalmynds/music_c1/blob/main/videos/Francisco Tárrega - Variaciones sobre 'El Carnaval de Venecia' de Paganini-ov1yBmsAZtE.mp4?raw=true"
         },
         {
             "name": "Echo & The Bunnymen - Nothing Lasts Forever (OFFICIAL MUSIC VIDEO)-Tc1J7y4xIdA.mp4",
-            "path": "music_c1/videos/Echo & The Bunnymen - Nothing Lasts Forever (OFFICIAL MUSIC VIDEO)-Tc1J7y4xIdA.mp4",
-            "size": 15.736348672
+            "path": "c1/videos/Echo & The Bunnymen - Nothing Lasts Forever (OFFICIAL MUSIC VIDEO)-Tc1J7y4xIdA.mp4",
+            "size": 15.736348672,
+            "url": "https://github.com/circuitalmynds/music_c1/blob/main/videos/Echo & The Bunnymen - Nothing Lasts Forever (OFFICIAL MUSIC VIDEO)-Tc1J7y4xIdA.mp4?raw=true"
         },
         {
             "name": "Uno de Mi Calle Me Ha Dicho Que Tiene un Amigo Que Dice Conocer un Tipo Que un Dia Fue Feliz-a669xM61wnU.mp4",
-            "path": "music_c1/videos/Uno de Mi Calle Me Ha Dicho Que Tiene un Amigo Que Dice Conocer un Tipo Que un Dia Fue Feliz-a669xM61wnU.mp4",
-            "size": 7.595542528
+            "path": "c1/videos/Uno de Mi Calle Me Ha Dicho Que Tiene un Amigo Que Dice Conocer un Tipo Que un Dia Fue Feliz-a669xM61wnU.mp4",
+            "size": 7.595542528,
+            "url": "https://github.com/circuitalmynds/music_c1/blob/main/videos/Uno de Mi Calle Me Ha Dicho Que Tiene un Amigo Que Dice Conocer un Tipo Que un Dia Fue Feliz-a669xM61wnU.mp4?raw=true"
         },
         {
             "name": "Bach Violin Sonata C minor Itzhak Perlman_Martha Argerich-UhkC85HfRoE.mp4",
-            "path": "music_c1/videos/Bach Violin Sonata C minor Itzhak Perlman_Martha Argerich-UhkC85HfRoE.mp4",
-            "size": 25.89550592
+            "path": "c1/videos/Bach Violin Sonata C minor Itzhak Perlman_Martha Argerich-UhkC85HfRoE.mp4",
+            "size": 25.89550592,
+            "url": "https://github.com/circuitalmynds/music_c1/blob/main/videos/Bach Violin Sonata C minor Itzhak Perlman_Martha Argerich-UhkC85HfRoE.mp4?raw=true"
         },
         {
             "name": "L'Impératrice ♗ VANILLE FRAISE(2)-iZAqaykiS70.mp4",
-            "path": "music_c1/videos/L'Impératrice ♗ VANILLE FRAISE(2)-iZAqaykiS70.mp4",
-            "size": 45.033961472
+            "path": "c1/videos/L'Impératrice ♗ VANILLE FRAISE(2)-iZAqaykiS70.mp4",
+            "size": 45.033961472,
+            "url": "https://github.com/circuitalmynds/music_c1/blob/main/videos/L'Impératrice ♗ VANILLE FRAISE(2)-iZAqaykiS70.mp4?raw=true"
         },
         {
             "name": "Conjunto primavera Las Noches Las Hago Dias-tbCDe_ITuHU.mp4",
-            "path": "music_c1/videos/Conjunto primavera Las Noches Las Hago Dias-tbCDe_ITuHU.mp4",
-            "size": 4.622806016
+            "path": "c1/videos/Conjunto primavera Las Noches Las Hago Dias-tbCDe_ITuHU.mp4",
+            "size": 4.622806016,
+            "url": "https://github.com/circuitalmynds/music_c1/blob/main/videos/Conjunto primavera Las Noches Las Hago Dias-tbCDe_ITuHU.mp4?raw=true"
         },
         {
             "name": "SERRAT - MACHADO (Vinilo 1969)-3LdOXaluKyg.mp4",
-            "path": "music_c1/videos/SERRAT - MACHADO (Vinilo 1969)-3LdOXaluKyg.mp4",
-            "size": 39.385481216
+            "path": "c1/videos/SERRAT - MACHADO (Vinilo 1969)-3LdOXaluKyg.mp4",
+            "size": 39.385481216,
+            "url": "https://github.com/circuitalmynds/music_c1/blob/main/videos/SERRAT - MACHADO (Vinilo 1969)-3LdOXaluKyg.mp4?raw=true"
         },
         {
             "name": "HUIZAR   pecado capital  full album 1988-nH4T7hQ1w9M.mp4",
-            "path": "music_c1/videos/HUIZAR   pecado capital  full album 1988-nH4T7hQ1w9M.mp4",
-            "size": 40.680728576
+            "path": "c1/videos/HUIZAR   pecado capital  full album 1988-nH4T7hQ1w9M.mp4",
+            "size": 40.680728576,
+            "url": "https://github.com/circuitalmynds/music_c1/blob/main/videos/HUIZAR   pecado capital  full album 1988-nH4T7hQ1w9M.mp4?raw=true"
         },
         {
             "name": "[1984] Oscilation Circuit – Série Réflexion 1 [Full Album]-MztcU9XWzC0.mp4",
-            "path": "music_c1/videos/[1984] Oscilation Circuit – Série Réflexion 1 [Full Album]-MztcU9XWzC0.mp4",
-            "size": 52.85376307200001
+            "path": "c1/videos/[1984] Oscilation Circuit – Série Réflexion 1 [Full Album]-MztcU9XWzC0.mp4",
+            "size": 52.85376307200001,
+            "url": "https://github.com/circuitalmynds/music_c1/blob/main/videos/[1984] Oscilation Circuit – Série Réflexion 1 [Full Album]-MztcU9XWzC0.mp4?raw=true"
         },
         {
             "name": "One More Shot-xr0AtK6y2eY.mp4",
-            "path": "music_c1/videos/One More Shot-xr0AtK6y2eY.mp4",
-            "size": 7.194803200000001
+            "path": "c1/videos/One More Shot-xr0AtK6y2eY.mp4",
+            "size": 7.194803200000001,
+            "url": "https://github.com/circuitalmynds/music_c1/blob/main/videos/One More Shot-xr0AtK6y2eY.mp4?raw=true"
         },
         {
             "name": "Absynthe-Minded-Envoi-_NbcDS7AeVA.mp4",
-            "path": "music_c1/videos/Absynthe-Minded-Envoi-_NbcDS7AeVA.mp4",
-            "size": 20.816806912
+            "path": "c1/videos/Absynthe-Minded-Envoi-_NbcDS7AeVA.mp4",
+            "size": 20.816806912,
+            "url": "https://github.com/circuitalmynds/music_c1/blob/main/videos/Absynthe-Minded-Envoi-_NbcDS7AeVA.mp4?raw=true"
         },
         {
             "name": "João Gilberto - 23 - Morena Boca de Ouro-6sJxH1NbrxU.mp4",
-            "path": "music_c1/videos/João Gilberto - 23 - Morena Boca de Ouro-6sJxH1NbrxU.mp4",
-            "size": 3.150199808
+            "path": "c1/videos/João Gilberto - 23 - Morena Boca de Ouro-6sJxH1NbrxU.mp4",
+            "size": 3.150199808,
+            "url": "https://github.com/circuitalmynds/music_c1/blob/main/videos/João Gilberto - 23 - Morena Boca de Ouro-6sJxH1NbrxU.mp4?raw=true"
         },
         {
             "name": "CONJUNTO PRIMAVERA luis pulido-oWng3_8en90.mp4",
-            "path": "music_c1/videos/CONJUNTO PRIMAVERA luis pulido-oWng3_8en90.mp4",
-            "size": 4.946464768
+            "path": "c1/videos/CONJUNTO PRIMAVERA luis pulido-oWng3_8en90.mp4",
+            "size": 4.946464768,
+            "url": "https://github.com/circuitalmynds/music_c1/blob/main/videos/CONJUNTO PRIMAVERA luis pulido-oWng3_8en90.mp4?raw=true"
         },
         {
             "name": "Julio Iglesias - Ni Te Tengo Ni Te Olvido-__bO_WXELG0.mp4",
-            "path": "music_c1/videos/Julio Iglesias - Ni Te Tengo Ni Te Olvido-__bO_WXELG0.mp4",
-            "size": 15.288416256000001
+            "path": "c1/videos/Julio Iglesias - Ni Te Tengo Ni Te Olvido-__bO_WXELG0.mp4",
+            "size": 15.288416256000001,
+            "url": "https://github.com/circuitalmynds/music_c1/blob/main/videos/Julio Iglesias - Ni Te Tengo Ni Te Olvido-__bO_WXELG0.mp4?raw=true"
         },
         {
             "name": "Una Furtiva Lagrima - Enrico Caruso 1904. Remastered.-t936rzOt3Zc.mp4",
-            "path": "music_c1/videos/Una Furtiva Lagrima - Enrico Caruso 1904. Remastered.-t936rzOt3Zc.mp4",
-            "size": 6.638053376
+            "path": "c1/videos/Una Furtiva Lagrima - Enrico Caruso 1904. Remastered.-t936rzOt3Zc.mp4",
+            "size": 6.638053376,
+            "url": "https://github.com/circuitalmynds/music_c1/blob/main/videos/Una Furtiva Lagrima - Enrico Caruso 1904. Remastered.-t936rzOt3Zc.mp4?raw=true"
         }
     ],
+    "ready_to_push": true,
     "total_size": 310.0754585600001
 }
